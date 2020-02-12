@@ -4,7 +4,8 @@
 
 1. Create a C# script that can open up a text file (files can be found in **src** folder), and tell us the number that has repeated the fewest number of times. Each number is on it's own line and is an integer.
 3. If two numbers have the same frequency count, return the smaller of the two numbers.
-4. Upload the final project to github.
+4. Output example: File: 1.txt, Number: 32, Repetead: 3 times (Print the output for all the files in a single run)
+5. Upload the final project to github.
 
 ### Unity Challenge
 
