@@ -9,6 +9,7 @@
 6. Output example 2: File: 3.txt, Number: 5, Repetead: 31 time
 7. Print the output for all the files in a single run
 8. Create a repo on github and commit the files that you've staged in your local repository.
+9. Add a detailed instruction on how to setup/launch your project.
 
 ### Unity Challenge
 
@@ -16,3 +17,4 @@
 2. Increase lives from 3 to 5 (make sure 5 hearts appear on the scene and are being calculated properly during the game session).
 3. Increase the amount of active missions from 2 to 4 in the Mission List.
 4. Create a repo on github and commit the files that you've staged in your local repository.
+5. Add a detailed instruction on how to setup/launch your project.
