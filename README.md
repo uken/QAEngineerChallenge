@@ -6,10 +6,9 @@
 3. If two numbers have the same frequency count, return the smaller of the two numbers.
 4. Solve the problem without using LINQ.
 5. Output example 1: File: 1.txt, Number: 32, Repetead: 3 times
-6. Output example 2: File: 3.txt, Number: 5, Repetead: 31 time
-7. Print the output for all the files in a single run
-8. Create a repo on github and commit the files that you've staged in your local repository.
-9. Add a detailed instruction on how to setup/launch your project.
+6. Print the output for all the files in a single run
+7. Create a repo on github and commit the files that you've staged in your local repository.
+8. Add a detailed instruction on how to setup/launch your project.
 
 ### Unity Challenge
 
